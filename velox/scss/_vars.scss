@@ -1,0 +1,20 @@
+$default-font: "ProximaNovaRegular", sans-serif;
+$accent: orange;
+
+$text: #393939;
+$text-light:#9d9d9d;
+$text-footer: #a5a5a5;
+
+$hover-color: #1275b9;
+
+$border-color: #ededed;
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1140px);
+
+$gutter: $grid-gutter-width;
+
+$fa-font-path:  "../webfonts";
